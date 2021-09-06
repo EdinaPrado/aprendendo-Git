@@ -1,0 +1,28 @@
+Olá mundo!
+
+Aqui vou falar um pouco do que eu aprendi sobre Git ;)
+
+Esse incrivel sistema de controle hoje ajuda milhares de pessoas a desenvolverem e contribuirem simultaniamente
+editando e criando novos arquivos. Incrivel né?
+
+Aqui vão alguns comandos básicos.
+
+Git init é para a criação de um repositrio local.
+
+Git reset ira desefazer o git add caso mude de ideia.
+
+Git status permite ver quais arquivos estão sendo rastreados pelo git e quais modificações
+já foram enviadas para o stage. É bem útil para quando se tem dúvidas sobre o que está sendo enviado.
+
+Git push vai subir as modificações no nosso repositório remoto,se já estiver tudo devidamente configurado, 
+os arquivos serão salvos no repositório remoto correspondente ao seu repositório local.
+
+
+Git clone Para baixar um repositório do GitHub, Bitbucket, GitLab ou qualquer que seja o servidor do nosso projeto.
+
+Git diff Retornara uma lista de itens que foram alterados.
+
+Git rm é para deletar, Lembrando que, para remover pastas, é sempre necessário que ela esteja vazia ou que executemos 
+o comando rm com o parâmetro -r para que a deleção seja recursiva.
+
+E com certeza a uma infinidade de possibiliadades a se aprender com esse sitema. 
